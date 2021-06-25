@@ -1,2 +1,2 @@
 # Cpp-Project-OOP---The-hangman
-I tried to create a little game that I have played when I was in high school with my classmates. The game is called The Hangman and it took me a few hours to make it. I like how it came out, I hope you like it too.
+Am încercat să creez un joc pe care îl jucam când eram la liceu cu colegii mei. Jocul se numește Spânzurător și a fost făcut în câteva ore. Nu e foarte sofisticat, dar mie îmi place cum a ieșit.
