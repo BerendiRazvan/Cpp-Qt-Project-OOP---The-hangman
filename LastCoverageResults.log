@@ -1,0 +1,22 @@
+[2021-05-16 16:43:44] [info] Start Program:
+Path:"C:\\Users\\Razvan\\source\\repos\\OOP_Antrenament_2\\x64\\Debug\\OOP_Antrenament_2.exe"
+Arguments:
+Working directory: "C:\\Users\\Razvan\\source\\repos\\OOP_Antrenament_2\\OOP_Antrenament_2\\"
+Modules: Selected: C:\Users\Razvan\source\repos\OOP_Antrenament_2\x64\Debug\Spanzuratoarea.exe Excluded: 
+Sources: Selected: C:\Users\Razvan\source\repos\OOP_Antrenament_2\OOP_Antrenament_2 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\Razvan\AppData\Local\Temp\nvbrczbh.ols 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2021-05-16 16:43:46] [info] ----------------------------------------------------
+[2021-05-16 16:43:46] [info] Coverage binary generated in file: C:\Users\Razvan\AppData\Local\Temp\nvbrczbh.ols
+[2021-05-16 16:43:46] [info] ----------------------------------------------------
+[2021-05-16 16:43:46] [warning] No modules were selected. Please check the values of --modules and --excluded_modules.
+You can try to remove all --modules and --excluded_modules and use --modules=C:\Users\Razvan\source\repos\OOP_Antrenament_2\x64\Debug instead.
