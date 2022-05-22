@@ -5,15 +5,15 @@ Am încercat să creez un joc pe care îl jucam când eram la liceu cu colegii m
 
 Pagina de pornire a jocului:
 
-![START](AppPhotos/StartGame.png)
+![START](AppImages/StartGame.png)
 
 
 Ghiceste cuvantul alegand lierele si folosind hint-urile:
 
-![PLAY](AppPhotos/InGame.png)
+![PLAY](AppImages/InGame.png)
 
 
 In caz ca nu ai ghicit cuvantul vaei perde, dar poti juca inca odata:
 
-![RESTART](AppPhotos/EndGame.png)
+![RESTART](AppImages/EndGame.png)
 
