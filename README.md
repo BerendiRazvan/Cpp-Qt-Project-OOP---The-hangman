@@ -3,17 +3,18 @@ Am încercat să creez un joc pe care îl jucam când eram la liceu cu colegii m
 
 
 
+
 Pagina de pornire a jocului:
 
 ![START](AppImages/StartGame.png)
 
 
-Ghiceste cuvantul alegand lierele si folosind hint-urile:
+Ghicește cuvântul alegând lierele potrivite și folosind hint-urile:
 
 ![PLAY](AppImages/InGame.png)
 
 
-In caz ca nu ai ghicit cuvantul vaei perde, dar poti juca inca odata:
+În caz că nu ai ghicit cuvântul vei pierde, dar poți juca încă odată:
 
 ![RESTART](AppImages/EndGame.png)
 
