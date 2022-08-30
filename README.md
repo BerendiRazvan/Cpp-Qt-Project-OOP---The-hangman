@@ -1,20 +1,18 @@
 # Cpp-Project-OOP---The-hangman
-Am încercat să creez un joc pe care îl jucam când eram la liceu cu colegii mei. Jocul se numește Spânzurătoarea și a fost făcut în câteva ore. Nu e foarte sofisticat, dar mie îmi place cum a ieșit. 
+I tried to create a game that I used to play when I was in high school with my classmates. The game is called The Hangman and was made in a few hours. It's not very complicated, but I like how it turned out.
 
 
-
-
-Pagina de pornire a jocului:
+Game home page:
 
 ![START](AppImages/StartGame.png)
 
 
-Ghicește cuvântul alegând lierele potrivite și folosind hint-urile:
+Guess the word by choosing the right letters and using the hints:
 
 ![PLAY](AppImages/InGame.png)
 
 
-În caz că nu ai ghicit cuvântul vei pierde, dar poți juca încă odată:
+If you didn't guess the word you will lose, but you can play again:
 
 ![RESTART](AppImages/EndGame.png)
 
