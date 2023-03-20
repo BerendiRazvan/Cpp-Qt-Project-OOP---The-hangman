@@ -15,4 +15,3 @@ Guess the word by choosing the right letters and using the hints:
 If you didn't guess the word you will lose, but you can play again:
 
 ![RESTART](AppImages/EndGame.png)
-
